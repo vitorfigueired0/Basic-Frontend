@@ -1,0 +1,48 @@
+.mainTitle{
+    padding-left: 20px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.mainDiv{
+    background-color: rgb(173, 173, 173);
+    padding: 30px;
+}
+
+.centerTitle{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#missao{
+    font-size: 20px;
+}
+
+em strong{
+    color: rebeccapurple;
+}
+
+.benefitsDiv{
+    background-color: white;
+    padding: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.imgBenefits{
+    width: 50%;
+}
